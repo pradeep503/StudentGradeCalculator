@@ -1,0 +1,17 @@
+body{
+    background-color: cyan;
+    padding: 3%;
+    color: white;
+}
+.red{
+    background-color: red;
+    padding: 4%;
+}
+.blue{
+    background-color: blue;
+    padding: 4%;
+}
+.whit{
+    background-color: whitesmoke;
+    color: black;
+}
